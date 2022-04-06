@@ -10,7 +10,7 @@ on:
     branches: '*'
 
 jobs:
-  build:
+  quality:
 
     runs-on: ${{ matrix.os }}
 
